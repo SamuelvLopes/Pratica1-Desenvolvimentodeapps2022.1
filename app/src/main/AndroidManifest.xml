@@ -11,7 +11,11 @@
         android:theme="@style/Theme.Pratica01">
         <activity
             android:name=".DisplayMessageActivity"
-            android:exported="false" />
+            android:label="@string/title_activity_display_message">
+         <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".MainActivity"/>
+
+        </activity>
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

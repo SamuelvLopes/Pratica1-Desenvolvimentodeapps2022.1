@@ -4,4 +4,5 @@
     <string name="button_send">Enviar</string>
     <string name="action_settings">ação procurar</string>
     <string name="action_search">ação buscar</string>
+    <string name="title_activity_display_message">Display mensagem</string>
 </resources>
